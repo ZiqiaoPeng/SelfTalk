@@ -1,4 +1,4 @@
-# EmoTalk
+# SelfTalk
 The official repository of the paper [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces](https://arxiv.org/abs/2306.10799)
 
 <p align='center'>
