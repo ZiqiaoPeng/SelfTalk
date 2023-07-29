@@ -1,5 +1,5 @@
 # SelfTalk
-The official repository of the paper [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces](https://arxiv.org/abs/2306.10799)
+The repository of the paper [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces](https://arxiv.org/abs/2306.10799) ACM MM 2023
 
 <p align='center'>
   <b>
@@ -7,7 +7,7 @@ The official repository of the paper [SelfTalk: A Self-Supervised Commutative Tr
     | 
     <a href="https://ziqiaopeng.github.io/selftalk/">Video</a>
     |
-    <a href="https://github.com/ZiqiaoPeng/SelfTalk">Code</a> 
+    <a href="https://github.com/psyai-net/SelfTalk_release">Code</a> 
   </b>
 </p> 
 
@@ -20,4 +20,4 @@ The official repository of the paper [SelfTalk: A Self-Supervised Commutative Tr
 
   ## Code
 
-We are organizing our code and will release it soon.
+We released our code in the Psyche AI's official repository, please visit [SelfTalk_release](https://github.com/psyai-net/SelfTalk_release).
